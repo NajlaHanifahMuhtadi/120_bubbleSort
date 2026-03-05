@@ -28,4 +28,10 @@ void input(){ //prosedur untuk input
 
 void bubbleSortArray(){ //prosedur untuk mengurutkan array 
     int pass = 1; //step 1
+
+    do{
+        for (int j=0; j <= n-1-pass; j++){ //step 2
+            
+        }
+    }
 }
