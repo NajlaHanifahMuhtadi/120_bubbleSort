@@ -38,5 +38,10 @@ void bubbleSortArray(){ //prosedur untuk mengurutkan array
                 arr[j+1] = temp;                    
             }
         }
+        pass = pass + 1; //step 4
+
+        cout << "\nPass " << pass - 1 << ": "; //number of pass
+            
+        } 
     }
 }
