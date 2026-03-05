@@ -30,8 +30,10 @@ void bubbleSortArray(){ //prosedur untuk mengurutkan array
     int pass = 1; //step 1
 
     do{
-        for (int j=0; j <= n-1-pass; j++){ //step 2
-            
+        for (int j=0; j <= n-1-pass; j++){ //integer j sama dengan nol; j lebih kecil atau sama dengan n dikurangi satu dikurangi pass; j bertambah satu setiap perulangan
+            if (arr[j] > arr[j + 1]) {
+                
+            }
         }
     }
 }
