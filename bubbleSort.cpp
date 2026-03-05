@@ -44,5 +44,6 @@ void bubbleSortArray(){ //prosedur untuk mengurutkan array
             for (int k =0; k < n; k++){
             cout << arr[k] << " "; //menampilkan data pada number of pass
         } 
-    }
+        cout << endl;
+    }while (pass <= n - 1); //step 
 }
