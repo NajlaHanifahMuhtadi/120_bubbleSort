@@ -19,4 +19,8 @@ void input(){ //prosedur untuk input
     cout << "=========================" << endl;
     cout << "Masukkan lemen array" << endl;
     cout << "=========================" << endl;
+
+    for (int i=0; 1 < n; i++){
+        
+    }
 }
