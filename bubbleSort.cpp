@@ -60,4 +60,9 @@ void display(){
             cout << "-->";
         }
     }
+    cout << endl;
+    cout << endl;
+    cout << "Jumlah pass = "<< n - 1 << endl; //menampilkan ke layar
+    cout << endl;
+    cout << endl;
 }
