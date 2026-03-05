@@ -56,5 +56,8 @@ void display(){
     cout << endl;
     for(int j = 0; j < n; j++){
         cout << arr[j]; //menampilkan array
+        if(j < n - 1){ //jika nilai j lebih kecil dari n dikurangi 1
+            cout << "-->";
+        }
     }
 }
