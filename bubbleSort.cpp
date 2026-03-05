@@ -9,5 +9,6 @@ void input(){ //prosedur untuk input
     while (true){
         cout << "Masukkan banyaknya elemen pada array : "; //output ke layar
         cin >> n; //input dari pengguna 
+        if(n <= 20) //jika n kurang dari pengguna
     }
 }
