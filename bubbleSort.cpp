@@ -11,5 +11,8 @@ void input(){ //prosedur untuk input
         cin >> n; //input dari pengguna 
         if(n <= 20) //jika n kurang dari atau sama dengan 20
             break; //keluar dari loop
+        else{
+            cout << "\nArray dapat mempunyai maksimal 20 elemen.\n"; //output ke layar
+        }
     }
 }
