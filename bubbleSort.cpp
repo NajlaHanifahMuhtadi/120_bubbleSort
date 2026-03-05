@@ -54,4 +54,7 @@ void display(){
     cout << "Element Array yng telah tersusun" <<endl;
     cout << "================================" <<endl;
     cout << endl;
+    for(int j = 0; j < n; j++){
+        
+    }
 }
